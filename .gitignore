@@ -4,6 +4,6 @@
 /.idea/
 node_modules
 bower_components
-static/dist
-static/bower_components
-static/.sass-cache
+assets/dist
+assets/bower_components
+assets/.sass-cache
