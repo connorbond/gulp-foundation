@@ -1,0 +1,8 @@
+{
+  "name": "gulp-with-foundation",
+  "version": "0.0.1",
+  "description": "Gulp with a Foundation project.",
+  "devDependencies": {
+    "foundation": "~5.2.2"
+  }
+}
